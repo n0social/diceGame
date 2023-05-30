@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    background-color: rgb(252, 243, 161);
+}
+
+h1 {
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 10rem;
+    color: rgba(236, 157, 38, 0.788);
+}
+
+h2 {
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 5rem;
+    color: rgba(247, 190, 105, 0.788);
+}
+
+
+p {
+
+    font-size: 10px;
+    font-style: italic;
+    color: rgb(245, 164, 42);
+}
+/*
+#player2 {
+    font-size: 10rem;
+}*/
+
+.hidden {
+    visibility: hidden;
+}
